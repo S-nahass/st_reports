@@ -9,7 +9,7 @@ def get_db_connection():
         host="127.0.0.1",
         user="root",
         password="Seifamr02",
-        database="Projectmanagement"  # Replace with your database name
+        database="Projectmanagement",
     )
 
 # Function to run a query and return the result as a DataFrame
